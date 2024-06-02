@@ -68,3 +68,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 
+![Screenshot 2024-06-02 073812](https://github.com/PerawX/Aviator-Predictor-FULL/assets/109441043/bdce3c2b-185d-4a67-b3fc-b322fc6d9777)
+This thing is not working on visual studio  code please see the image attached.
